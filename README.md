@@ -1,6 +1,6 @@
 # Geodata WS 21/22 Group D 
 ## Contributors 
-Task 2- Daphne Larose (27571), Task 1- Adiel Batson (28067), Task 3- Kshama Gauri (27628)
+Task 2- Daphne Larose (27571), Task 1- Adiel Batson (28067), Task 4- Kshama Gauri (27628)
 ## Description & Motivation
 This repository utilizes various software to extract, format, display and analyze geo-spatial data derived from `opendata.dwd.de`. As students of Environment & Energy BSc it is a great gift to be able learn to understand how the world works around us. This project is interesting because the student moves from understanding how observations are made to engineering observational solutions in geo-termporal frameworks and other illustrative/predictive software. This learnable ability is amazing. 
 
